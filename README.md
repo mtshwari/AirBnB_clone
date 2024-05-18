@@ -276,6 +276,5 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 
-## Authors 
-* username =  mtshwari
-* email = tphukubje7@gmail.com
+## Authors
+* mtshwari <tphukubje7@gmail.com>
